@@ -1,0 +1,5 @@
+# src/core/settings.py
+WIDTH = 1280
+HEIGHT = 720
+TITLE = "SPACE DEFENDER"
+FPS = 60
